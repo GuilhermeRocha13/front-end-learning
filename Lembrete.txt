@@ -1,0 +1,12 @@
+Lembrete:
+
+No alinhamento deles (text-align)
+No tamanho da fonte (font-size)
+Na cor de fundo (background)
+Na cor do texto (color)
+
+padding (espaço entre conteúdo e o border)
+margin (distancia da margem da página)
+
+marcar id no css #nome
+marcar classe no css .nome
